@@ -1,5 +1,32 @@
-# How to Hack Like a GHOST
-This repos contains scripts illustrated in the book.  
-You will hopefully find interesting proof of concepts to play with and extend to your liking.
+# 유령처럼 해킹하는 방법
 
-[How to Hack Like a Ghost](https://www.amazon.com/dp/B08FH9SQNG)
+<img src="https://www.youngjin.com/images/book_cover/9788931474428.jpg" height="350px" style="border: 2px solid grey;">
+
+[유령처럼 해킹하는 방법(영진닷컴)](https://blog.naver.com/ydot/223326406360)
+
+『유령처럼 해킹하는 방법』는 클라우드 기반의 보안 환경에 침입하는 해킹의 달인 스팍 플로우의 마음 속을 깊이 탐방한다. 정찰부터 잠입까지, 스팍 플로우의 데이터에 기반한 정치 컨설팅 회사를 공격하는 모든 과정을 따라간다. 가상의 기업을 표적으로 삼지만, 이 기업이 가진 취약점들은 실제로 존재할 수 있는 것들이다. 그리고 해킹의 좌절과 막다른 골목에서부터 스릴과 어렵게 얻은 성공까지, 여러분이 직접 겪게 될 경험 또한 실제 경험이 될 것이다.
+
+책의 내용을 따라가며 클라우드 기술을 관통하는 실용적이면서도 최신의 기법을 배우게 될 것이다. 이 책의 내용은 테일즈 운영 시스템, 토어, 바운스 서버, 감지를 피할 수 있는 익명의 교체 가능한 해킹 인프라를 구축하는 상세한 코드를 통한 기본적인 OpSec 절차로부터 시작한다. 효과적인 정찰 기법을 탐구하고, 도구를 밑바닥에서부터 개발하고, 시스템 공통의 저수준 기능들을 분해하여 목표물에 대한 접근을 얻는다. 스팍 플로우의 통찰력과 은밀한 방식은 빠른 사고력을 키워주고, 여러분의 해킹 임무를 수행하는 데 동기를 부여해 줄 것이다.
+
+**저자** 스팍 플로우  
+**역자** 박찬성  
+**발행일** 2024년 02월 15일  
+**크기** 188*257mm  
+**쪽수** 316쪽  
+**가격** 26,000원  
+**ISBN** 9788931474428  
+
+<br>
+
+## 💡실습용 예제 파일 & 소스 코드
+도서 실습에 필요한 예제 파일과 소스 코드는 챕터별로 구성하였으며, 깃허브 저장소뿐만 아니라 [영진닷컴 홈페이지](https://www.youngjin.com/reader/pds/pds.asp)에서도 다운로드받을 수 있습니다.  
+코드 작성 시에는 코드를 직접 입력하거나, 책에서 제공하는 소스 코드 파일을 사용하세요.
+
+<br>
+
+## 💡문의 및 정오표
+- [문의](mailto:Support@youngjin.com)
+- [정오표](https://www.youngjin.com/Artyboard/mboard.asp?strBoardID=errata)
+
+
+
