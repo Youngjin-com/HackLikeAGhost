@@ -1,6 +1,6 @@
 # 유령처럼 해킹하는 방법
 
-<img src="https://www.youngjin.com/images/book_cover/9788931474428.jpg" height="350px" style="border: 2px solid grey;">
+<img src="https://www.youngjin.com/images/book_cover/9788931474428.png" height="350px" style="border: 2px solid grey;">
 
 [유령처럼 해킹하는 방법(영진닷컴)](https://blog.naver.com/ydot/223326406360)
 
